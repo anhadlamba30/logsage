@@ -1,0 +1,44 @@
+Timestamp           Event ID  Source             Level      Message
+-------------------------------------------------------------------------------------------------------
+2024-10-27 08:00:01  6001     EventLog          Information  Event system startup.
+2024-10-27 08:00:05  6002     EventLog          Information  Kernel eventlog initialized.
+2024-10-27 08:00:10  100  Microsoft-Windows-Kernel-Power  Information  Power status change.
+2024-10-27 08:00:15  1001  Windows Defender  Information  Scheduled scan completed.
+2024-10-27 08:00:20  102  Disk  Warning  Disk is nearing capacity (C:).  Remaining space: 10 GB.
+2024-10-27 08:00:25  1000  Windows Defender  Information  Real-time protection enabled.
+2024-10-27 08:00:30  7000  Windows Update  Information  Windows Update service started.
+2024-10-27 08:00:35  106  ntfs  Error  Disk Error: Corrupted file system structure on volume C:.  Attempting to repair.
+2024-10-27 08:00:40  1005  Microsoft-Windows-NetworkProvider  Information  Network adapter Ethernet enabled.
+2024-10-27 08:00:45  4100  Microsoft-Windows-PrintService  Information  Print Spooler service started.
+2024-10-27 08:00:50  6005  EventLog          Information  System startup complete.
+2024-10-27 08:01:00  103  Disk  Warning  Disk C: is experiencing performance degradation.
+2024-10-27 08:01:10  1007  Windows Update  Information  Downloading updates...
+2024-10-27 08:01:20  7036  Windows Update  Information  Installation of update KB503000000 completed successfully.
+2024-10-27 08:01:30  5000  Application Error  Error  Application: MyApplication.exe, PID: 1234, Error: 0xC0000005.
+2024-10-27 08:01:40  101  System  Information  User profile loaded for domain\user.
+2024-10-27 08:01:50  6009  EventLog          Warning  Event log service shut down.
+2024-10-27 08:02:00  7010  Windows Update  Information  Checking for updates...
+2024-10-27 08:02:10  4104  Microsoft-Windows-PrintService  Information  Print Spooler service started.
+2024-10-27 08:02:20  1031  Disk  Warning  High disk queue length on C:. Average wait time: 20ms.
+2024-10-27 08:02:30  1020  Windows Defender  Information  Virus definition updated.
+2024-10-27 08:02:40  1003  Windows Defender  Information  Scheduled scan started.
+2024-10-27 08:02:50  6006  EventLog          Information  System shutdown started.
+2024-10-27 08:03:00  7018  Windows Update  Warning  An update failed to install: UpdateID: ... (details omitted).
+2024-10-27 08:03:10  5010  Application Error  Error  Application: AnotherApp.exe, PID: 5678, Error: 0xC0000007.
+2024-10-27 08:03:20  1008  Windows Defender  Information  Real-time protection is on.
+2024-10-27 08:03:30  4101  Microsoft-Windows-PrintService  Information  Print Spooler service paused.
+2024-10-27 08:03:40  1016  Disk  Warning  Disk C: is running hot. Temperature: 60°C.
+2024-10-27 08:03:50  6010  EventLog          Information  System sleep started.
+2024-10-27 08:04:00  7022  Windows Update  Information  Windows Update service stopped.
+2024-10-27 08:04:10  1004  Windows Defender  Information  Scan completed. No threats found.
+2024-10-27 08:04:20  4102  Microsoft-Windows-PrintService  Information  Print Spooler service stopped.
+2024-10-27 08:04:30  1009  Windows Defender  Information  Virus definition last updated: 2024-10-26.
+2024-10-27 08:04:40  1017  Disk  Error  Disk Error: Read failure on sector ... (details omitted).
+2024-10-27 08:04:50  6011  EventLog          Information  System resumed from sleep.
+2024-10-27 08:05:00  5015  Application Error  Critical  Application: CriticalApp.exe, PID: 9012, Error: 0xC000000D.  Service failed to start.
+2024-10-27 08:05:10  1023  Disk  Warning  Disk C: has fragmented files. Defragmentation recommended.
+2024-10-27 08:05:20  1006  Windows Defender  Information  Scheduled scan paused.
+2024-10-27 08:05:30  4103  Microsoft-Windows-PrintService  Information  Print Spooler service started.
+2024-10-27 08:05:40  1018  Disk  Information  Disk C: space used: 95 GB.
+2024-10-27 08:05:50  6008  EventLog          Information  System standby started.
+2024-10-27 08:06:00  1024  Disk  Error  Disk Error: Write failure on sector ... (details omitted).
