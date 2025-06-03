@@ -4,7 +4,7 @@ LogSage is a prototype that lets you upload logs and get intelligent summaries o
 
 ## 📷 Demo
 
-![LogSage Screenshot](screenshots/logsage_demo.png)
+![LogSage Demo](demo/logsage_demo_video.mov)
 
 ## 🚀 Features
 
