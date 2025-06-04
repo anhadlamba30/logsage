@@ -42,7 +42,7 @@ You can test with:
 ## 🧭 Future Vision
 
 LogSage aims to become an agentic AI system administrator assistant : 
-- 🖥️ MCP Agent Integration: Automatically pull logs from MCP-like monitoring nodes
+- 🖥️ MCP Agent Integration: Automatically pull logs from the system via an MCP server
 - 🤖 Agentic Chain-of-Thought: Multistep reasoning to isolate deeper infrastructure problems
 - 🔄 Live Log Streaming Support: Real-time log tailing + LLM insights
 - 🧬 Semantic Root Cause Graphing: Link symptoms, errors, systems, and resolutions
