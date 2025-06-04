@@ -1,6 +1,6 @@
-# 🧠 LogSage — AI-Powered Log Analyzer and Root Cause Assistant
+# 🧠 LogSage — AI-Powered Log Analyzer and Root Cause Analysis Assistant
 
-LogSage is a prototype that lets you upload logs and get intelligent summaries of errors and likely root causes — powered by an LLM running locally or remotely.
+LogSage is a tool that lets you upload logs and get intelligent summaries of errors and likely root causes — powered by an LLM running locally or remotely.
 
 ## 📷 Demo
 
